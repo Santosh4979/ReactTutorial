@@ -1,0 +1,51 @@
+What is React 
+1. OPen Source for Building user interfaces
+2. Not a framework 
+3. Focus on UI
+4. Rich ecosystem
+
+
+Why learn React 
+
+1. Created and metained by facebook
+2, Huge Community 
+3. More than 100% start on Github
+
+
+Technical side 
+
+Component based Architecture
+ex Header , Side Nav , Main Contect , Footer 
+Artical Compnent
+2 .Resuable Component
+3. React is declarative
+
+Avoid complexity 
+DOM upadation
+
+integrate in any application
+
+
+
+Presequesties 
+
+HTML, CSS Javascript ,
+ES6
+
+Javascript - this filter map
+
+ES6 -- let & const , arrow functions , template literalsdefaults parmeters obj literla , rest  and sperad , operators and destrucing assignment
+
+
+
+
+Channel contents Fundaman
+
+
+
+Fundamrntals
+HTTP 
+Routing 
+Redux 
+Utillies 
+
